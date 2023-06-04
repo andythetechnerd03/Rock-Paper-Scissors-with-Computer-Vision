@@ -20,7 +20,7 @@ In this repo, I have developed an executable Windows app that runs the game of R
 ## How to Install
 - Make sure the latest version of Python and PIP is installed in your computer (Python 3.10 **recommended**).
 - Download the entire repo (it is fairly heavy, around 2 GB) so it might take some time.
-- Go to the link https://1drv.ms/f/s!AtU3D6nm_XTXzzrD1RLx5qLO42XZ?e=8p37rK to download ```/dist``` folder (since it is too large upload to GitHub) and move it to the main folder
+- Go to the link https://1drv.ms/f/s!AtU3D6nm_XTXzzrD1RLx5qLO42XZ?e=8p37rK to download ```/main``` folder (since it is too large upload to GitHub) and move it to the main folder
 - Go into Terminal or Command Prompt with Admin, and Change directory into the directory with the repo using ```cd <your_dir>```
 - Run ```pip install -r requirements.txt``` to install all required packages into the computer.
 - Go into ```\dist\main``` within the repo and run the ```main.exe``` file (you should run as administrator to avoid any errors).
