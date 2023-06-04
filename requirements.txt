@@ -1,0 +1,7 @@
+tkinter
+opencv-python
+tensorflow
+numpy
+emoji
+mediapipe
+pandas
