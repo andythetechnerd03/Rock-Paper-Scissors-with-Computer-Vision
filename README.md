@@ -5,6 +5,11 @@ In this repo, I have developed an executable Windows app that runs the game of R
 - Rock beats Scissors
 - Scissors beat Paper
 - Paper beats Rock
+Here's some screenshots of the interface:
+![Screenshot 2023-07-01 095941](https://github.com/andythetechnerd03/Rock-Paper-Scissors-with-Computer-Vision/assets/101492362/8ea755f8-cf57-4c17-bb82-2d9a41a2bd48)
+![Screenshot 2023-07-01 100044](https://github.com/andythetechnerd03/Rock-Paper-Scissors-with-Computer-Vision/assets/101492362/1f31a5d8-afb5-4d4e-8c13-8d12b3accf0a)
+![Screenshot 2023-07-01 100056](https://github.com/andythetechnerd03/Rock-Paper-Scissors-with-Computer-Vision/assets/101492362/9156aae8-f975-493d-a480-e0439198b98a)
+
 ## Technical Details
 ### Interface
 - The app runs on the base of Python and utilizes the Tkinter library - which is of the most popular library for developing GUI applications.
