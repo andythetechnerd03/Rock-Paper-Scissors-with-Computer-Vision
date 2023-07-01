@@ -4,7 +4,8 @@ This repo contains of the most classic game in history... rewritten with the hel
 In this repo, I have developed an executable Windows app that runs the game of Rock Paper Scissors. You will give our your choice of rock, paper, or scissors, using your hand and pointing to the webcam. It will read the hand and recognize either one of the three possibilities. Then, the computer will randomize its own choice and then the app will give you the result just like real life. </br>
 - Rock beats Scissors
 - Scissors beat Paper
-- Paper beats Rock
+- Paper beats Rock. </br>
+
 Here's some screenshots of the interface:
 ![Screenshot 2023-07-01 095941](https://github.com/andythetechnerd03/Rock-Paper-Scissors-with-Computer-Vision/assets/101492362/8ea755f8-cf57-4c17-bb82-2d9a41a2bd48)
 ![Screenshot 2023-07-01 100044](https://github.com/andythetechnerd03/Rock-Paper-Scissors-with-Computer-Vision/assets/101492362/1f31a5d8-afb5-4d4e-8c13-8d12b3accf0a)
