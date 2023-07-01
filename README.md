@@ -1,4 +1,4 @@
-# Rock Paper Scissors game using Deep Learning
+# Rock Paper Scissors with Computer Vision
 This repo contains of the most classic game in history... rewritten with the help of AI and Computer Vision. You have a little fun time playing with the computer on your free time or simply want to test your luck.
 ## Introduction
 In this repo, I have developed an executable Windows app that runs the game of Rock Paper Scissors. You will give our your choice of rock, paper, or scissors, using your hand and pointing to the webcam. It will read the hand and recognize either one of the three possibilities. Then, the computer will randomize its own choice and then the app will give you the result just like real life. </br>
